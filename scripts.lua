@@ -257,9 +257,9 @@ return {
         description = "An updated Piggy script with ESP and teleportation.",
         gameIds = {4623386862},
         script = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Loader.lua"
-    }    
+    },
     {
-        name = "Vertex Hub для MM2",
+        name = "Vertex Hub MM2",
         description = "Powerful script for Murder Mystery 2 with auto farm, aimbot, and other features.",
         gameIds = {142823291},
         script = "https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"
