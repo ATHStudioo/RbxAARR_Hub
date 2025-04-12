@@ -133,12 +133,6 @@ return {
         script = "https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"
     },
     {
-        name = "Murder Mystery 2",
-        description = "Script for MM2.",
-        gameIds = {142823291},
-        script = "https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script"
-    },
-    {
         name = "Arsenal",
         description = "Script for Arsenal FPS game.",
         gameIds = {286090429},
@@ -199,177 +193,123 @@ return {
         script = "https://raw.githubusercontent.com/bunnynwy/games/main/KH.lua"
     },
     {
-        name = "Eclipse Hub",
-        description = "Multi-game script hub with many features.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/zzerexx/scripts/main/EclipseHub.lua"
+        name = "Blox Fruits Mukuro Hub",
+        description = "An advanced hub for Blox Fruits with many features.",
+        gameIds = {2753915549, 4442272183, 7449423635},
+        script = "https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader"
     },
     {
-        name = "Nexus Hub",
-        description = "Universal hub with regular updates.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/GwnStefano/NexusHub/main/Main"
+        name = "Vape V4",
+        description = "A script for Bedwars and other PVP games.",
+        gameIds = {6872265039, 8444591321},
+        script = "https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"
     },
     {
-        name = "Krypton Hub",
-        description = "Powerful universal script hub.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/KryptonHub.lua"
+        name = "Anime Adventures",
+        description = "A script for Anime Adventures with autofarm functionality.",
+        gameIds = {8304191830},
+        script = "https://raw.githubusercontent.com/ArponAG/Scripts/main/AnimeAdventures.lua"
     },
     {
-        name = "Owl Hub V2",
-        description = "Updated version of Owl Hub.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
-    },
-    {
-        name = "Vestra Hub",
-        description = "Feature-rich universal hub.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/xandudiscord/vestra/main/loader.lua"
-    },
-    {
-        name = "Fates Admin",
-        description = "Powerful admin commands script.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"
-    },
-    {
-        name = "Universal Hitbox Expander",
-        description = "Expands hitboxes for easier targeting.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/Vcsk/RobloxScripts/main/HitboxExpander.lua"
-    },
-    {
-        name = "Universal ESP",
-        description = "Advanced ESP with customization.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/RectangularObject/ESP-Library/main/main.lua"
-    },
-    {
-        name = "UniversalFE",
-        description = "FE (Filtering Enabled) script hub.",
+        name = "Universal FE Scripts",
+        description = "A collection of FE scripts that work in all games.",
         gameIds = {0},
         script = "https://raw.githubusercontent.com/Dvrknvss/UniversalFEScriptHub/main/Script"
     },
     {
-        name = "Ghostplayer",
-        description = "Makes your character invisible to others.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/GhostPlayer352/Test4/main/GhostHub"
-    },
-    {
-        name = "Luna Hub",
-        description = "Feature-rich universal script hub.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/ItachiPvPUchiha/Luna/main/LunaHub"
-    },
-    {
-        name = "Pendulum Hub",
-        description = "Multi-purpose universal hub.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V5.lua"
-    },
-    {
-        name = "Hydroxide Remade",
-        description = "Updated version of Hydroxide.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/1x10E3/hydroxide-remade/main/init.lua"
-    },
-    {
-        name = "Universal Aimbot v2",
-        description = "Improved universal aimbot with silent aim.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/Averiias/Universal-SilentAim/main/main.lua"
-    },
-    {
-        name = "Dark Hub",
-        description = "Premium universal script hub.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init"
-    },
-    {
-        name = "Selexity",
-        description = "Multi-game script hub with frequent updates.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/AlexR32/Roblox/main/Selexity.lua"
-    },
-    {
-        name = "Vape V4",
-        description = "Universal combat enhancement script.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"
-    },
-    {
-        name = "Catalyst Hub",
-        description = "Multi-game script hub with premium features.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/destylol/catalyst/itachi/main.lua"
-    },
-    {
-        name = "Universal FPS Booster",
-        description = "Optimizes game performance.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster"
-    },
-    {
-        name = "System Hub",
-        description = "Powerful universal hub with many features.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/System-Scripts/System/main/Script"
+        name = "HOHO Hub",
+        description = "An updated hub for Blox Fruits and other anime games.",
+        gameIds = {2753915549, 4442272183, 7449423635},
+        script = "https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"
     },
     {
         name = "Proxima Hub",
-        description = "Feature-rich universal script hub.",
+        description = "A universal hub supporting many games.",
         gameIds = {0},
-        script = "https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"
+        script = "https://raw.githubusercontent.com/TomoriNow/TOMORIHUB/main/PROXIMA%20HUB"
     },
     {
-        name = "BlackTrap",
-        description = "Universal hub with premium features.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/BlackTrap/Main/main/BlackTrap.lua"
+        name = "Prison Life Admin",
+        description = "An updated admin script for Prison Life.",
+        gameIds = {155615604},
+        script = "https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife"
     },
     {
-        name = "Sirius",
-        description = "Premium universal hub with frequent updates.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/siriusexploits/Sirius/main/source.lua"
+        name = "Doors Entity Spawner",
+        description = "An entity spawner for the game Doors.",
+        gameIds = {6516141723},
+        script = "https://raw.githubusercontent.com/plamen6789/DoorsEntitySummonerGUI/main/EntityGUI"
     },
     {
-        name = "Spectre Hub",
-        description = "Multi-game script hub with clean UI.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/thatwexx/spectrehub/main/source.lua"
+        name = "BedWars Vape",
+        description = "A specialized script for BedWars.",
+        gameIds = {6872265039},
+        script = "https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"
     },
     {
-        name = "Solaris Hub",
-        description = "Premium universal script hub.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/Stebulous/solaris-ui-lib/main/source.lua"
+        name = "Murder Mystery 2 Eclipse Hub",
+        description = "An updated hub for MM2.",
+        gameIds = {142823291},
+        script = "https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script"
     },
     {
-        name = "FluxHub",
-        description = "Modern universal hub with regular updates.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/FluxusRbx/FluxusHub/main/script"
+        name = "Piggy Script",
+        description = "An updated Piggy script with ESP and teleportation.",
+        gameIds = {4623386862},
+        script = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Loader.lua"
+    }    
+    {
+        name = "Vertex Hub для MM2",
+        description = "Powerful script for Murder Mystery 2 with auto farm, aimbot, and other features.",
+        gameIds = {142823291},
+        script = "https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"
     },
     {
-        name = "RektSky",
-        description = "Universal combat and utility script.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/8pmX8/rektsky4roblox/main/mainscript.lua"
+        name = "Xhub MM2",
+        description = "New script for MM2 with auto farm, aimbot, and Russian language support.",
+        gameIds = {142823291},
+        script = "https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"
     },
     {
-        name = "LinoriaLib",
-        description = "Universal UI library with many features.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/Library.lua"
+        name = "Gumanba Dead Rails",
+        description = "Script for Dead Rails with various features.",
+        gameIds = {116495829188952},
+        script = "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRails"
     },
     {
-        name = "Universal ServerHop",
-        description = "Script for server hopping in any game.",
-        gameIds = {0},
-        script = "https://raw.githubusercontent.com/LeoKholYt/roblox/main/lk_serverhop.lua"
+        name = "TbaoHub Dead Rails",
+        description = "Full-featured GUI script for Dead Rails, supports PC and mobile.",
+        gameIds = {116495829188952},
+        script = "https://raw.githubusercontent.com/tbao143/thaibao/refs/heads/main/TbaoHubDeadRails"
+    },
+    {
+        name = "Luarmor Dead Rails",
+        description = "Script loader for Dead Rails, may require a key.",
+        gameIds = {116495829188952},
+        script = "https://api.luarmor.net/files/v3/loaders/255ac567ced3dcb9e69aa7e44c423f19.lua"
+    },
+    {
+        name = "Null Fire Dead Rails",
+        description = "Script with kill aura, teleport, and other features. Use with 'DingaScripts' parameter.",
+        gameIds = {116495829188952},
+        script = "https://raw.githubusercontent.com/InfernusScripts/Null-Fire/main/Loader"
+    },
+    {
+        name = "Solix Dead Rails",
+        description = "Script with teleport to end, auto heal, and other features.",
+        gameIds = {116495829188952},
+        script = "https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua"
+    },
+    {
+        name = "FliskScript Counter Blox",
+        description = "Free script for Counter Blox, but detectable.",
+        gameIds = {301549746},
+        script = "https://raw.githubusercontent.com/fliskScript/jaran.vip/main/free.lua"
+    },
+    {
+        name = "Open Aimbot для Counter Blox",
+        description = "Aimbot script for Counter Blox, but detectable.",
+        gameIds = {301549746},
+        script = "https://raw.githubusercontent.com/ttwizz/Open-Aimbot/master/source.lua"
     }
 }
