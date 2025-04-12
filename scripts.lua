@@ -64,13 +64,13 @@ return {
         name = "Noclip",
         description = "Simple noclip script to walk through walls.",
         gameIds = {0},
-        script = "https://pastebin.com/raw/pKV2Ys4E"
+        script = "https://pastebin.com/raw/ajy70RrE"
     },
     {
-        name = "Click Teleport",
-        description = "Teleport to where you click.",
+        name = "TPTool",
+        description = "Teleport to where you click. (Tool)",
         gameIds = {0},
-        script = "https://pastebin.com/raw/7vYCidUf"
+        script = "https://pastebin.com/raw/SppR0Hir"
     },
     {
         name = "Anti-AFK",
